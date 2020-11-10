@@ -87,4 +87,4 @@ module Lemming4(
     assign aaah = (state == FALL_R || state == FALL_L);
     assign digging = (state == DIG_L || state == DIG_R);
 
-endmodule
+endmodule//

@@ -70,5 +70,5 @@ module tb_u();
 		.rst      (rst),
 		.scram_en (scram_en),
 		.scram_rst(scram_rst)
-	);
+	);// 注释
 endmodule
